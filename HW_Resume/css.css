@@ -1,0 +1,20 @@
+header {
+  display: flex;
+}
+
+span {
+  font-weight: bold;
+}
+
+img {
+  object-fit: cover;
+  height: 150px;
+}
+
+.education li {
+  list-style-type: none;
+}
+
+.experience li {
+  list-style-type: none;
+}
